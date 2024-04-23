@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Cihan</h1>
-- 🌱 I’m currently learning **DS and ML**
+# Hi 👋, I'm Cihan
 
+- 🌱 I’m currently learning **Data Science and ML**
 - 💬 Ask me about **Python**
-
 - 📫 How to reach me **goren.chn@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
