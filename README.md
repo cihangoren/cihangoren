@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+)](https://git.io/typing-svg)
-- 🌱 I’m currently learning DS and ML
+<h1 align="center">Hi 👋, I'm Cihan</h1>
+- 🌱 I’m currently learning **DS and ML**
 
 - 💬 Ask me about **Python**
 
