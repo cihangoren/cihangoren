@@ -1,7 +1,7 @@
 # Hi 👋, I'm Cihan
 
 - 🌱 I’m currently learning **Data Science and ML**
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python and PowerBI**
 - 📫 How to reach me **goren.chn@gmail.com**
 
 
